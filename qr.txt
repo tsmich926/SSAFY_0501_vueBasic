@@ -1,0 +1,27 @@
+json 약어,설명
+다른언어에서 별다른 조치없이 사용가능한가
+
+함수선언식 표현식
+
+array help method
+
+number가 아닌것
+null nan ...
+
+let 
+const 
+틀린문법
+
+null과 undefinde차이
+
+속성부여
+
+window
+
+객체
+
+선언위치에따라 달라지는 lextical
+
+함수1,,3rPtks
+\
+삼항연산자
